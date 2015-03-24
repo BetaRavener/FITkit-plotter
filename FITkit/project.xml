@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project outputprefix="testled">
+
+    <!--  Project description -->
+    <name>Laser Cutter</name>
+    <author>Ivan Sevcik</author>
+    <authoremail>xsevci50@stud.fit.vutbr.cz</authoremail>
+    <revision>20141023</revision>
+    <description>Aplication for controlling laser cutter.
+    </description>
+ 
+    <!--  MCU part -->
+    <mcu>
+        <file>main.c</file>
+		<file>hilbert.c</file>
+    </mcu>
+
+	<!-- FPGA part -->
+    <fpga use="apps/demo/display/project.xml" />
+	
+</project>
