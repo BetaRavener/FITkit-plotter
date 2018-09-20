@@ -1,5 +1,5 @@
-# FITkit-plotter Control programs for PC and FITkit device. Watch it in 
-action: https://www.youtube.com/watch?v=PZSXbNqtS44 
+# FITkit-plotter Control programs for PC and FITkit device. 
+Watch it in action: https://www.youtube.com/watch?v=PZSXbNqtS44 
 
 FITkit is developlment platform created at Faculty of Information 
 Technologies (FIT), Brno University of Technology. It is equiped with 
